@@ -6,6 +6,7 @@
 
 <p><h1 align="center">城市公交查询管理系统</h1></p>
 
+
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
     <img src="https://img.shields.io/badge/spring-5.x-lightgrey.svg"/>
@@ -15,6 +16,7 @@
 
 ## 简介
 
+> 注意: applicationContext.xm 改为 applicationContext.xml 在运行
 > 本代码来源于网络, 请入群(123300273)后联系群主索要sql文件!
 
 
